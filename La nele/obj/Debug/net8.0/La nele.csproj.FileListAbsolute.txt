@@ -1,0 +1,14 @@
+D:\Users\20241170150017\Desktop\La nele\bin\Debug\net8.0\La nele.exe
+D:\Users\20241170150017\Desktop\La nele\bin\Debug\net8.0\La nele.deps.json
+D:\Users\20241170150017\Desktop\La nele\bin\Debug\net8.0\La nele.runtimeconfig.json
+D:\Users\20241170150017\Desktop\La nele\bin\Debug\net8.0\La nele.dll
+D:\Users\20241170150017\Desktop\La nele\bin\Debug\net8.0\La nele.pdb
+D:\Users\20241170150017\Desktop\La nele\obj\Debug\net8.0\La nele.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150017\Desktop\La nele\obj\Debug\net8.0\La nele.AssemblyInfoInputs.cache
+D:\Users\20241170150017\Desktop\La nele\obj\Debug\net8.0\La nele.AssemblyInfo.cs
+D:\Users\20241170150017\Desktop\La nele\obj\Debug\net8.0\La nele.csproj.CoreCompileInputs.cache
+D:\Users\20241170150017\Desktop\La nele\obj\Debug\net8.0\La nele.dll
+D:\Users\20241170150017\Desktop\La nele\obj\Debug\net8.0\refint\La nele.dll
+D:\Users\20241170150017\Desktop\La nele\obj\Debug\net8.0\La nele.pdb
+D:\Users\20241170150017\Desktop\La nele\obj\Debug\net8.0\La nele.genruntimeconfig.cache
+D:\Users\20241170150017\Desktop\La nele\obj\Debug\net8.0\ref\La nele.dll

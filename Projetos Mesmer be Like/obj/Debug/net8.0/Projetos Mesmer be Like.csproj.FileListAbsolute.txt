@@ -1,0 +1,14 @@
+D:\Users\20241170150017\Desktop\Projetos Mesmer be Like\obj\Debug\net8.0\Projetos Mesmer be Like.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150017\Desktop\Projetos Mesmer be Like\obj\Debug\net8.0\Projetos Mesmer be Like.AssemblyInfoInputs.cache
+D:\Users\20241170150017\Desktop\Projetos Mesmer be Like\obj\Debug\net8.0\Projetos Mesmer be Like.AssemblyInfo.cs
+D:\Users\20241170150017\Desktop\Projetos Mesmer be Like\obj\Debug\net8.0\Projetos Mesmer be Like.csproj.CoreCompileInputs.cache
+D:\Users\20241170150017\Desktop\Projetos Mesmer be Like\bin\Debug\net8.0\Projetos Mesmer be Like.exe
+D:\Users\20241170150017\Desktop\Projetos Mesmer be Like\bin\Debug\net8.0\Projetos Mesmer be Like.deps.json
+D:\Users\20241170150017\Desktop\Projetos Mesmer be Like\bin\Debug\net8.0\Projetos Mesmer be Like.runtimeconfig.json
+D:\Users\20241170150017\Desktop\Projetos Mesmer be Like\bin\Debug\net8.0\Projetos Mesmer be Like.dll
+D:\Users\20241170150017\Desktop\Projetos Mesmer be Like\bin\Debug\net8.0\Projetos Mesmer be Like.pdb
+D:\Users\20241170150017\Desktop\Projetos Mesmer be Like\obj\Debug\net8.0\Projetos Mesmer be Like.dll
+D:\Users\20241170150017\Desktop\Projetos Mesmer be Like\obj\Debug\net8.0\refint\Projetos Mesmer be Like.dll
+D:\Users\20241170150017\Desktop\Projetos Mesmer be Like\obj\Debug\net8.0\Projetos Mesmer be Like.pdb
+D:\Users\20241170150017\Desktop\Projetos Mesmer be Like\obj\Debug\net8.0\Projetos Mesmer be Like.genruntimeconfig.cache
+D:\Users\20241170150017\Desktop\Projetos Mesmer be Like\obj\Debug\net8.0\ref\Projetos Mesmer be Like.dll
